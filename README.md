@@ -12,6 +12,9 @@ otherwise, it's a leap year.
 EXTENSION: 
 find when the next leap year is...
 
+HARD EXTENSION:
+give the user the next certain number of leap year (user's choice)
+
 
 Test Data
 Sample input: 2000
